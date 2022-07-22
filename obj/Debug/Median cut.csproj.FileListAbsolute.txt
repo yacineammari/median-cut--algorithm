@@ -1,0 +1,10 @@
+C:\Users\Srg_Forge\Desktop\S02\TAI\C#\Median cut\Median cut\bin\Debug\Median cut.exe.config
+C:\Users\Srg_Forge\Desktop\S02\TAI\C#\Median cut\Median cut\bin\Debug\Median cut.exe
+C:\Users\Srg_Forge\Desktop\S02\TAI\C#\Median cut\Median cut\bin\Debug\Median cut.pdb
+C:\Users\Srg_Forge\Desktop\S02\TAI\C#\Median cut\Median cut\obj\Debug\Median cut.csprojAssemblyReference.cache
+C:\Users\Srg_Forge\Desktop\S02\TAI\C#\Median cut\Median cut\obj\Debug\Median_cut.Form1.resources
+C:\Users\Srg_Forge\Desktop\S02\TAI\C#\Median cut\Median cut\obj\Debug\Median_cut.Properties.Resources.resources
+C:\Users\Srg_Forge\Desktop\S02\TAI\C#\Median cut\Median cut\obj\Debug\Median cut.csproj.GenerateResource.cache
+C:\Users\Srg_Forge\Desktop\S02\TAI\C#\Median cut\Median cut\obj\Debug\Median cut.csproj.CoreCompileInputs.cache
+C:\Users\Srg_Forge\Desktop\S02\TAI\C#\Median cut\Median cut\obj\Debug\Median cut.exe
+C:\Users\Srg_Forge\Desktop\S02\TAI\C#\Median cut\Median cut\obj\Debug\Median cut.pdb
